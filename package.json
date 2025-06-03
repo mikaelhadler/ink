@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "start": "ink ./Table.jsx"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "ink": "^6.0.0",
+    "react": "^19.1.0"
+  }
+}
