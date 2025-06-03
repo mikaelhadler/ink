@@ -1,4 +1,4 @@
-# Terminal Space Invaders
+# Space Invaders - React render on terminal
 
 A retro Space Invaders game that runs directly in your terminal, built with React Ink.
 
